@@ -48,19 +48,6 @@ Key Visuals:
 - Certain products are consistently top sellers across months
 - Some countries show potential for targeting based on contribution
   
-📁 Project Structure
-online-retail-dashboard/
-├── data/
-│   └── online_retail_cleaned.csv
-├── notebooks/
-│   └── eda_analysis.ipynb
-├── sql/
-│   └── aggregated_queries.sql
-├── powerbi/
-│   └── final_dashboard.pbix
-├── README.md
-└── Online_Retail_Sales_Analysis_Report.docx
-
 🚀 How to Run
 1. SQL: Run the queries in 'aggregated_queries.sql' in SSMS to generate summary tables
 2. Python: Use 'eda_analysis.ipynb' for exploratory analysis
