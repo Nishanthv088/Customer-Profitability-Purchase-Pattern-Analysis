@@ -1,5 +1,7 @@
 🛒 Online Retail Sales Analysis Dashboard (Power BI + SQL + Python)
+
 📌 Project Overview
+
 Objective:
 To analyze retail transactional data, segment customers, track revenue trends, and visualize KPIs for business insights.
 
